@@ -1,4 +1,5 @@
 /dataset/
+/train_valid_dataset/
 /result/
 *.csv
 *.txt
